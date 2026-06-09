@@ -1,0 +1,35 @@
+/Debug/
+/Release/
+/_ide/
+
+# Build outputs
+*.o
+*.d
+*.a
+*.elf
+*.bin
+*.bit
+*.map
+*.lst
+*.su
+*.srec
+*.size
+
+# Vitis / Eclipse generated metadata
+/.metadata/
+/.Xil/
+/.analytics
+/.launches/
+
+# Logs and temporary files
+*.log
+*.jou
+*.str
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS files
+Thumbs.db
+Desktop.ini
